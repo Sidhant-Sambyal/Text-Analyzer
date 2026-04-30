@@ -105,7 +105,7 @@ Linear SVM                  0.9839       0.9133
 
 ---
 
-## How TF-IDF Works (Interview-Ready)
+## How TF-IDF Works
 
 **TF-IDF = Term Frequency × Inverse Document Frequency**
 
